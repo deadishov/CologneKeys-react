@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/CologneKeys-react/static/css/main.73c8f6eb.css",
+    "main.js": "/CologneKeys-react/static/js/main.4860aa49.js",
+    "static/media/banner-dude.png": "/CologneKeys-react/static/media/banner-dude.23dbe43f962441da5e30.png",
+    "static/media/specialist.png": "/CologneKeys-react/static/media/specialist.8836f110718d64f1d8f9.png",
+    "static/media/advantages-man.png": "/CologneKeys-react/static/media/advantages-man.2056f1601287123d5d92.png",
+    "static/media/advantages-bg.png": "/CologneKeys-react/static/media/advantages-bg.e812c4a3e3a39ef3a776.png",
+    "static/media/counter-bg.png": "/CologneKeys-react/static/media/counter-bg.1d31a043aeb89d40f513.png",
+    "static/media/reviews-stars.svg": "/CologneKeys-react/static/media/reviews-stars.71b3af7c68c4a650bb0c2f1a8c435f91.svg",
+    "static/media/insta.svg": "/CologneKeys-react/static/media/insta.11229392c665423a74fc8ca958d52905.svg",
+    "static/media/google-img.svg": "/CologneKeys-react/static/media/google-img.7685cfa92829bd2e3667796909b18d4c.svg",
+    "static/media/logo-white.svg": "/CologneKeys-react/static/media/logo-white.43966ada1628d951a330e11ef55d670e.svg",
+    "static/media/stars.svg": "/CologneKeys-react/static/media/stars.823403c998dce410bf8206ca6bceddb4.svg",
+    "static/media/phone.svg": "/CologneKeys-react/static/media/phone.7b1ec732f6b8fede9693be9ba403ce3c.svg",
+    "static/media/logo.svg": "/CologneKeys-react/static/media/logo.e004fcde548d1f3290577f4d9d58bfb2.svg",
+    "static/media/twitter.svg": "/CologneKeys-react/static/media/twitter.2d42b02db446f30e609506d8ced8ffdd.svg",
+    "static/media/facebook.svg": "/CologneKeys-react/static/media/facebook.9289651984ee6d7aa9f51ad46ec17f2d.svg",
+    "index.html": "/CologneKeys-react/index.html",
+    "static/media/counter-checkmark.svg": "/CologneKeys-react/static/media/counter-checkmark.dc6a9688a3da666610e20ad4f38657b7.svg",
+    "static/media/check-mark.svg": "/CologneKeys-react/static/media/check-mark.d28e6c1270b71d2e9bf10cf5fd6cf778.svg",
+    "static/media/footer-arrow.svg": "/CologneKeys-react/static/media/footer-arrow.3b3c1fbe6b43822279d55d1d5ef09688.svg",
+    "static/media/accordion-arrow.svg": "/CologneKeys-react/static/media/accordion-arrow.4ccbaf9c3ef4d8c314c9a363027a045d.svg",
+    "static/media/arrowLeft.svg": "/CologneKeys-react/static/media/arrowLeft.f2546d2512d28ce8c7d7f956a8552ae9.svg",
+    "static/media/arrowRight.svg": "/CologneKeys-react/static/media/arrowRight.beeef90efda8d4262a391b204984108b.svg",
+    "main.73c8f6eb.css.map": "/CologneKeys-react/static/css/main.73c8f6eb.css.map",
+    "main.4860aa49.js.map": "/CologneKeys-react/static/js/main.4860aa49.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.73c8f6eb.css",
+    "static/js/main.4860aa49.js"
+  ]
+}
