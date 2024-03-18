@@ -1,0 +1,26 @@
+[
+    {
+        "title": "Türöffnung",
+        "price": "ab 37 €",
+        "textline1": "24 Std. Service",
+        "textline2": "Ohne Schäden",
+        "textline3": "Schnell vor Ort",
+        "buttonText": "Mehr erfahren"
+    },
+    {
+        "title": "Tresoröffnung",
+        "price": "ab 75 € ",
+        "textline1": "Geringe Kosten",
+        "textline2": "Kostenlose Anfahrt",
+        "textline3": "Schonende Öffnungsmethoden",
+        "buttonText": "Mehr erfahren"
+    },
+    {
+        "title": "Einbruchschutz",
+        "price": "ab 65 € ",
+        "textline1": "Geringe Kosten",
+        "textline2": "24 Std. Service",
+        "textline3": "Keine Kosten vor Sichtung vor Ort",
+        "buttonText": "Mehr erfahren"
+    }
+]

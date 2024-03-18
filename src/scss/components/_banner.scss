@@ -1,0 +1,163 @@
+.banner {
+    font-family: Roboto, sans-serif;
+    background-image: url('https://s3-alpha-sig.figma.com/img/517e/cbe4/aeb54f10704846728446e237762062f7?Expires=1693180800&Signature=pkbjIvOm6eWnM21-J0egmqBQEx3-50FlY3v~kpOSluLoiyAIT5JK9AlfP-~pAYQFgswq5OnGiGblpZ4H8pxf7vXn-MVEVVkJk3kY3xWT306QQNNckOwjbTGuaAoZMwqnteQs~G3pKt~ahgGO2cb884HemR-EBqSsSWt~TvjCV-mKFOGLavEST8z7lpOfVSBsB7W4y~0nCu9P57hSLh4LzRGZAXgoBvXOOfu~CL2nf0gbDNLP4F9jQJQ49wKTKx~HXINMlJf0BqUe0UXQtJOMGQdTWioegJFMVIg-qb~2P3SlOcbpT7lEE4RmLEYuhQh00I2QsLnt-6nP0mw22paN9Q__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4');
+    width: 100%;
+
+    .container {
+        height: 100%;
+    }
+
+    &__phone {
+        background: #5350FF;
+    }
+
+    &__content {
+        display: flex;
+        width: 100%;
+        height: 100%;
+    }
+
+    &__text-block {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+
+    &__title {
+        font-size: 48px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: normal;
+        margin-bottom: 15px;
+    }
+
+    &__textline {
+        display: flex;
+        align-items: center;
+        font-size: 24px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: normal;
+        margin-bottom: 15px;
+        gap: 10px;
+
+        &:last-child {
+            margin-bottom: 20px;
+        }
+    }
+
+    &__priceline {
+        font-size: 18px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: normal;
+        margin-bottom: 30px;
+
+        .price {
+            color: #4058FF;
+            font-size: 24px;
+            font-style: normal;
+            font-weight: 400;
+            line-height: normal;
+        }
+
+        @media (max-width: 1250px) {
+            font-size: 16px;
+
+            .price {
+                font-size: 22px;
+            }
+        }
+    }
+
+    &__image-block {
+        display: flex;
+        flex-direction: column;
+        justify-content: end;
+    }
+
+    &__image {
+        object-fit: contain;
+        width: 100%;
+        height: 90%;
+    }
+
+    @media (max-width: 1050px) {
+        &__title {
+            font-size: 34px;
+        }
+
+        &__textline {
+            font-size: 20px;
+        }
+
+        &__priceline {
+            .price {
+                font-size: 18px;
+            }
+        }
+    }
+
+    @media (max-width: 850px) {
+        &__text-block {
+            width: 100%;
+        }
+
+        &__priceline {
+            font-size: 14px;
+
+            .price {
+                font-size: 16px;
+            }
+        }
+    }
+
+    @media (max-width: 650px) {
+        &__content {
+            padding: 100px 0;
+            justify-content: center;
+            align-items: center;
+            text-align: center;
+        }
+
+        &__text-block {
+            align-items: center;
+        }
+
+        &__textline {
+            width: 270px;
+            align-items: center;
+            justify-content: start;
+        }
+
+        &__priceline {
+            font-size: 12px;
+
+            .price {
+                font-size: 14px;
+            }
+        }
+
+        &__image-block {
+            display: none;
+        }
+    }
+
+    @media (max-width: 450px) {
+        &__title {
+            font-size: 30px;
+        }
+
+        &__priceline {
+            font-size: 14px;
+
+            .price {
+                font-size: 16px;
+            }
+        }
+
+        &__phone-content {
+            font-size: 14px;
+        }
+    }
+}

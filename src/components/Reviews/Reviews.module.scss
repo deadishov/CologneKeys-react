@@ -1,0 +1,39 @@
+.reviews__slider {
+    padding: 10px 20px;
+}
+
+.reviews__slide {
+    display: flex;
+    justify-content: center;
+
+    // @media (max-width: 850px) {
+    //     max-width: 235px;
+    // }
+}
+
+.sliderNav {
+    position: absolute;
+    width: 100%;
+    top: calc(50% - 20px);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    display: none;
+
+    .arrowLeft,
+    .arrowRight {
+        padding: 10px;
+        cursor: pointer;
+        z-index: 1;
+        width: 35px;
+
+        @media (min-width: 450px) {
+            width: 45px;
+        }
+    }
+
+    @media (max-width: 1050px) {
+        display: flex;
+    }
+}
